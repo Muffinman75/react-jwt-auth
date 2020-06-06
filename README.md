@@ -1,4 +1,4 @@
-# Sparkol-Login-Test
+# React-JWT-Auth
 
 Please be aware that the home page is not 100% secure. This is ok as long as any sensitive data access is done via an api using the jwt and verified.
 
